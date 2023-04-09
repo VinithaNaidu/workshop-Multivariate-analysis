@@ -1,4 +1,4 @@
-### workshop-Multivariate-analysis
+### Workshop-Multivariate-analysis
 ### AIM:
 To perform Bivariate/Multivariate Analysis for the given data set.
 
@@ -15,7 +15,7 @@ Perform the Multivariate Analysis.
 ### Step4
 Save the cleaned data.
 
-###PROGRAM:
+### PROGRAM:
 ```
 DEVELOPED BY:D.Vinitha
 REGISTRATION NUMBER: 212222230175
